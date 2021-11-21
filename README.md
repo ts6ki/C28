@@ -1,2 +1,3 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# C28
+
+Further experimentation with Git commands and GitBash
